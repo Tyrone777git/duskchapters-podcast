@@ -10,7 +10,7 @@
   <itunes:image href="https://tyrone777git.github.io/duskchapters-podcast/cover.jpg"/>
   <itunes:category text="Leisure"/>
   <itunes:explicit>false</itunes:explicit>
-  <lastBuildDate>Tue, 17 Nov 2026 13:00:05 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 13:00:05 +0000</lastBuildDate>
   <item>
     <title>A Gentle Sleep Story: An Evening in Sleepy Hollow | American Folk Tale</title>
     <description>Settle in for a slow, quiet evening in Sleepy Hollow. This is a gentle retelling of the peaceful valley, with its drowsy streams, golden autumn light, and warm farmhouse kitchens. There is no fright here, only soft scenes and an unhurried pace to help your mind let go of the day.
@@ -24,6 +24,19 @@ This tale is a public-domain story (Washington Irving, 1820), retold for rest.
     <guid isPermaLink="false">duskchapters-ep68</guid>
     <pubDate>Mon, 16 Nov 2026 02:00:00 +0000</pubDate>
     <itunes:duration>1017</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>The Lacemaker&#x27;s Dusk | Fated Mates Wolf Shifter Romance Full Audiobook</title>
+    <description>A lacemaker omega with a rare gift for reading the hidden patterns in thread is summoned to mend the fraying ward-veil that shields the Ashenvale pack. As she follows each knot, she finds an old betrayal woven into the veil itself, and the guarded alpha who is her fated mate may be the only one who can stand beside her when it unravels.
+
+Moonlit Bonds is a playlist of original, complete wolf-shifter fantasy romance audiobooks from Dusk Chapters. Every story is family-friendly and PG-13, with a strong heroine, a slow-burn fated mates bond, and a full ending, free to listen to from start to finish.
+
+#WolfShifterRomance #RomanceAudiobook #FatedMates #FullAudiobook #FantasyRomance</description>
+    <enclosure url="https://tyrone777git.github.io/duskchapters-podcast/episodes/ep67.mp3" length="53188508" type="audio/mpeg"/>
+    <guid isPermaLink="false">duskchapters-ep67</guid>
+    <pubDate>Wed, 18 Nov 2026 02:00:00 +0000</pubDate>
+    <itunes:duration>8864</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
