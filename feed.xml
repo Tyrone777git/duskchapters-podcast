@@ -10,7 +10,7 @@
   <itunes:image href="https://tyrone777git.github.io/duskchapters-podcast/cover.jpg"/>
   <itunes:category text="Leisure"/>
   <itunes:explicit>false</itunes:explicit>
-  <lastBuildDate>Fri, 20 Nov 2026 13:01:24 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 21 Nov 2026 12:35:10 +0000</lastBuildDate>
   <item>
     <title>A Gentle Sleep Story: Rumpelstiltskin | German Folk Tale</title>
     <description>Rumpelstiltskin is the old tale of a miller&#x27;s daughter, a room full of straw, and a strange little man who spins it into gold at a terrible price. In this retelling, the story moves slowly and softly, with the sharp edges smoothed away, so your mind can follow along and then let go.
@@ -24,6 +24,19 @@ This is a public-domain tale from the Brothers Grimm, retold here for rest.
     <guid isPermaLink="false">duskchapters-ep72</guid>
     <pubDate>Thu, 19 Nov 2026 02:00:00 +0000</pubDate>
     <itunes:duration>606</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>The Cartographer of Ashfall Ridge | Full Wolf Shifter Fated Mates Audiobook</title>
+    <description>The boundary-stones of Ashfall Ridge are failing, and the pack&#x27;s lands are fading from every map. Mara, a gruff and bone-tired omega mapmaker, has always had an uncanny gift for drawing places exactly as they truly are. Now that gift may be the only thing that can re-anchor the old magic. But the alpha who guards the pack is watching her work, and the bond between them is older than any map.
+
+&quot;Moonlit Bonds&quot; is a playlist of original, complete, full-length wolf shifter fantasy romance audiobooks on the Dusk Chapters channel. Every story is a wholesome, family-friendly, PG-13 romance with a strong heroine and fated mates, free to listen to from the first chapter to the last.
+
+#WolfShifterRomance #FatedMates #RomanceAudiobook #FullAudiobook #FantasyRomance</description>
+    <enclosure url="https://tyrone777git.github.io/duskchapters-podcast/episodes/ep69.mp3" length="53765804" type="audio/mpeg"/>
+    <guid isPermaLink="false">duskchapters-ep69</guid>
+    <pubDate>Sat, 21 Nov 2026 02:00:00 +0000</pubDate>
+    <itunes:duration>8960</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
