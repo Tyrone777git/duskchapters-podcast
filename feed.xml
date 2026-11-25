@@ -10,7 +10,7 @@
   <itunes:image href="https://tyrone777git.github.io/duskchapters-podcast/cover.jpg"/>
   <itunes:category text="Leisure"/>
   <itunes:explicit>false</itunes:explicit>
-  <lastBuildDate>Tue, 24 Nov 2026 13:01:51 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 13:01:56 +0000</lastBuildDate>
   <item>
     <title>A Gentle Sleep Story: Hansel and Gretel (gentle retelling) | German Folk Tale</title>
     <description>Two children wander into a deep, quiet forest, follow a trail of moonlit crumbs, and find a cottage that is not quite what it seems. This gentle retelling of Hansel and Gretel softens the sharp edges and keeps the warmth: sibling courage, small clever choices, and a safe walk home. The pace is slow and the voice is low, so you can let go of the day and drift off before the story ends.
@@ -39,6 +39,19 @@ This is a public-domain tale from the Brothers Grimm, retold here for rest.
     <guid isPermaLink="false">duskchapters-ep72</guid>
     <pubDate>Thu, 19 Nov 2026 02:00:00 +0000</pubDate>
     <itunes:duration>606</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>The Rootbound Orchard | Full Wolf Shifter Fated Mates Romance Audiobook</title>
+    <description>The heart-trees of the Thornwick wolves are dying, and no one in the pack can stop it. Enter a wandering orchard grafter from a scattered lowland pack, hired as a last resort to save them. As she works through the withered groves, she uncovers a secret tied to her own lost lineage, and to the alpha whose bond with her was written long before they met. Some roots run deeper than anyone knew.
+
+Moonlit Bonds is a playlist of original, complete wolf-shifter fantasy romance audiobooks, each one a full story from start to finish. Wholesome, family-friendly, and PG-13, with strong heroines, fated mates, and happily-ever-afters. Press play, settle in, and let the moonlight do the rest.
+
+#WolfShifterRomance #FatedMates #RomanceAudiobook #FantasyRomance #FullAudiobook</description>
+    <enclosure url="https://tyrone777git.github.io/duskchapters-podcast/episodes/ep71.mp3" length="57428780" type="audio/mpeg"/>
+    <guid isPermaLink="false">duskchapters-ep71</guid>
+    <pubDate>Wed, 25 Nov 2026 02:00:00 +0000</pubDate>
+    <itunes:duration>7178</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
