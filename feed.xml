@@ -10,7 +10,7 @@
   <itunes:image href="https://tyrone777git.github.io/duskchapters-podcast/cover.jpg"/>
   <itunes:category text="Leisure"/>
   <itunes:explicit>false</itunes:explicit>
-  <lastBuildDate>Fri, 27 Nov 2026 13:01:50 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 28 Nov 2026 12:17:36 +0000</lastBuildDate>
   <item>
     <title>A Gentle Sleep Story: Rapunzel | German Folk Tale</title>
     <description>Rapunzel is the old tale of a girl with very long golden hair, a tall tower hidden deep in the forest, and a quiet kind of courage that grows slowly over time. In this telling, the pace is unhurried and the language is soft, so you can let go of the day and drift off somewhere between the garden wall and the tower window.
@@ -24,6 +24,19 @@ Rapunzel is a public-domain story (Brothers Grimm), retold here for rest.
     <guid isPermaLink="false">duskchapters-ep75</guid>
     <pubDate>Thu, 26 Nov 2026 02:00:00 +0000</pubDate>
     <itunes:duration>834</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>The Tallowmark Wolves | Full Wolf Shifter Romance Audiobook</title>
+    <description>When the sacred boundary stones protecting a mountain pack begin to fail, a quiet well-digger with a gift for hearing water beneath the earth is the last person anyone expects to matter. But the old magic was never carved in the stones. It was sung into the springs, and only she can wake it again, standing beside the brooding alpha who is fated to be hers.
+
+Moonlit Bonds is a playlist of original, complete wolf-shifter fantasy romance audiobooks on Dusk Chapters. Every story is family-friendly and PG-13, with a strong heroine, a fated-mates bond, and a full audiobook you can settle into from start to finish.
+
+#WolfShifterRomance #FatedMates #RomanceAudiobook #FantasyRomance #FullAudiobook</description>
+    <enclosure url="https://tyrone777git.github.io/duskchapters-podcast/episodes/ep74.mp3" length="55154540" type="audio/mpeg"/>
+    <guid isPermaLink="false">duskchapters-ep74</guid>
+    <pubDate>Sat, 28 Nov 2026 02:00:00 +0000</pubDate>
+    <itunes:duration>9192</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
